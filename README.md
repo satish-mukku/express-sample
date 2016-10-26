@@ -1,9 +1,14 @@
 # express-sample
 express sqlite example
 
-run npm install
-run node.js
+ 
+`npm install`
 
-open browser http://localhost:3000/ will save sample users
-get request http://localhost:3000/users
+`node app.js`
+
+open browser 
+`http://localhost:3000/`
+
+Get UserList
+`http://localhost:3000/users`
 
